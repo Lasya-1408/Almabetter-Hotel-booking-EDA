@@ -28,10 +28,11 @@ The dataset has 119390 rows and 32 columns. children, company and agent  columns
 * Ideal days people would like to stay in a hotel
 * which month gave more revenue
 * Which deposit type customers are most likely to cancel bookings
+* What is the relation between adr and total members in both hotels
+* What is the ideal number of days to stay in order to get best daily rate in both hotels
 * Which market segment required disproportionately special requests
 # Conclusion
 After performing few analysis for the given dataset, it can be concluded that
-
 *   From the analysis, it is observed that the ideal days to stay in city hotel is in between 10 to 15 days and around a week in resort hotel.
 *   Almost all the market segment bookings had dispropotionate guests.
 *   Most of the bookings are for city hotel, more optimistic price plans and marketing strategies to be implemented to maintain the bookings
@@ -39,8 +40,8 @@ After performing few analysis for the given dataset, it can be concluded that
 *   The room types which gave higher revenue has to be installed more.
 *   Transient customers are high in number and they contribute to most of the bookings.
 *   The customers are booking rooms through online TA/TO.
-
-Therefore, assumptions made earlier were correct.
+*   As the total members increases, adr increases. Also, for a single person adr is below 100 in resort hotel and slightly above 100 in city hotel.
+*   7 days would be ideal to book in city hotel and resort hotel to get best daily rates.
 
 Also, strategies to reduce cancellations could be by having strict cancellation policies, giving discounts for direct booking, and many optimized price plans so that customers are more attracted to this hotel than other hotels.
 # Tool
